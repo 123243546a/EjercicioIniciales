@@ -2,13 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Ejercicio6_1 : MonoBehaviour
+public class Ejercicio8_1 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        // a) True  b) True  c) True  d) False  e) True  f) True
-
+        
     }
 
     // Update is called once per frame
